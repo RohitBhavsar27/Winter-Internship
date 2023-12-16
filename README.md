@@ -1,3 +1,6 @@
+
+Google Sheet URL : https://docs.google.com/spreadsheets/d/1SLum1R6eXKnsSbCNT-bUvQ5c8Rx12Wr-aLLJGqBjs7I/edit?usp=sharing
+
 Bike Buyers Dataset (Google Sheets Dashboard)
 
 This dataset has details of 1000 users from different backgrounds and whether or not they buy a bike. This data can be used to build the dashboard in Google Sheets. There are some NA (Null / Empty) values injected in the dataset. Use this dataset for Data Cleaning, Exploration, and Visualization.
