@@ -23,7 +23,7 @@ The "Frog and Leaf" project is a Python-based application that simulates
    1. git clone https://github.com/RohitBhavsar27/Winter-Internship/
    2. cd frog_and_leaf
 
-## Solution
+## Implementation
 
 Step 1 - Display green and brown frogs on the left and right sides initially.
          Initial Display :-
