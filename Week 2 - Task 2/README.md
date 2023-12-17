@@ -20,8 +20,8 @@ The "Frog and Leaf" project is a Python-based application that simulates
 
 1. Clone the repository:
 
-   1. git clone https://github.com/RohitBhavsar27/Winter-Internship/Week 2 - Task 2/frog_and_leaf.py
-   2. cd frog and leaf
+   a. git clone https://github.com/RohitBhavsar27/Winter-Internship/Week 2 - Task 2/
+   b. cd frog_and_leaf
 
 ## Solution
 
