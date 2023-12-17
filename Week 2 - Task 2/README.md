@@ -20,8 +20,8 @@ The "Frog and Leaf" project is a Python-based application that simulates
 
 1. Clone the repository:
 
-   git clone https://github.com/RohitBhavsar27/Winter-Internship/frog and leaf.git
-   cd frog and leaf
+   1. git clone https://github.com/RohitBhavsar27/Winter-Internship/frog_and_leaf.git
+   2. cd frog and leaf
 
 ## Solution
 
@@ -41,7 +41,7 @@ Step 2 - Accept positions of the frog that you want to move.
 
 Step 3 - Define Invalid moves and add conditional 'if' statements accordingly
 
-### Valid and Invalid Moves 
+## Valid and Invalid Moves 
 
 1. Entered position should be between 0 to 6. Or a character 'q' to quit the game.
 2. Entered position cannot be the position of empty leaf.
