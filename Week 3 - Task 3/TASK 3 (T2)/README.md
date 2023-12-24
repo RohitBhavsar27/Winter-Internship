@@ -1,6 +1,6 @@
 Google Colab File URL : https://colab.research.google.com/drive/11AF9ub9UmuvnHTvMvvBYqJMSr7WDfsJr
 
-Data Cleaning (chipotle.tsv):
+DATA CLEANING (chipotle.tsv) :
 
 Columns: 
 
@@ -9,7 +9,6 @@ Columns:
 ●	Item Name
 ●	Choice Description
 ●	Item Price
-
 
 In this task we are working on tsv file so, before diving into the questions, here's a brief introduction to working with TSV files in Pandas:
 
@@ -56,7 +55,6 @@ Optional Question: If needed, convert the cleaned dataset to a CSV file using th
 
 16. Handling Categorical Data:
 Question: For categorical columns (e.g., Item Name), consider encoding or transforming them into a format suitable for analysis.
-
 
 17. Consistent Quantity and Price Units:
 Question: Ensure consistency in units for Quantity and Item Price. Should any conversions or adjustments be made for uniform analysis?
