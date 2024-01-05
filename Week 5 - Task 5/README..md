@@ -22,9 +22,11 @@
 - Access the recorded interviews of witnesses conducted after the murder. Gather insights into their statements and potential clues.
 
 Here is the transcript of the first witness named 'Morty Schapiro'.
+
 ![image](https://github.com/RohitBhavsar27/Winter-Internship/assets/130300699/cca28095-0e31-4be8-b70f-1b5dea4cdcf0)
 
 Here is the transcript of the second witness named 'Annabel Miller'.
+
 ![image](https://github.com/RohitBhavsar27/Winter-Internship/assets/130300699/1282eaf4-dbaa-4a3d-8397-0d85256edb5c)
 
 - From the insights that we have gained from both the transcript we can proceed further in the investigation. We are going to cross check the authenticity of the transcript by checking the gym database and the vehicle details.
@@ -33,9 +35,11 @@ Here is the transcript of the second witness named 'Annabel Miller'.
 - Investigate the gym database using details obtained from the crime scene report and witness interviews. Look for any gym-related information that might be relevant.
 
 Cross referencing the first witness's transcript.
+
 ![image](https://github.com/RohitBhavsar27/Winter-Internship/assets/130300699/812f874d-2815-4211-bcaa-a4aff793f49c)
 
 Cross referencing the second witness's transcript.
+
 ![image](https://github.com/RohitBhavsar27/Winter-Internship/assets/130300699/ce7c0a5b-a7ca-4612-943a-39f867bf601b)
 
 - If we analyze both the transcript we got to think that there were two membership id's (48Z7A, 48Z55) which are common in both the transcript. Thus we are going to mainly focus on that people.
