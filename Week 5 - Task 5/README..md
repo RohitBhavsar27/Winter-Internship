@@ -81,7 +81,7 @@ Once we get the person's unique identity number we can cross check them in the f
 
 _2. She attended the SQL Symphony Concert 3 times in December 2017._
 
-![image](https://github.com/RohitBhavsar27/Winter-Internship/assets/130300699/e45745c4-08e4-4d98-82a8-e4f9446bf3f6)
+![image](https://github.com/RohitBhavsar27/Winter-Internship/assets/130300699/0357ad3a-ce38-4f0b-acd7-892610ddc0f3)
 
 ## Hurray !! We have found the murderer. Let's find his personal detail to know more about her.
 
