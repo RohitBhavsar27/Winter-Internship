@@ -9,7 +9,7 @@
 
 ![image](https://github.com/RohitBhavsar27/Winter-Internship/assets/130300699/17a8e15e-a3cd-423a-8405-408de57b73a6)
 
-- After extracting the crime scene report for the muredr that occured on Jan 15, 2018 in SQL city. We can see that description says that there were two witnesses. The address of both the witnesses are available in the crime database. Further we have to retrieve their personal details and any other relevant information.
+- After extracting the crime scene report for the murder that occured on Jan 15, 2018 in SQL city. We can see that description says that there were two witnesses. The address of both the witnesses are available in the crime database. Further we have to retrieve their personal details and any other relevant information.
 
 ## Witness Personal Details:
 - Check the personal details of witnesses involved in the case. Retrieve their names, addresses, and any other relevant information.
