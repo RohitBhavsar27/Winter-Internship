@@ -44,7 +44,9 @@ select *from drivers_license where gender  = "female" and height between 65 and 
 
 select id from person where license_id in (202298,291182,918773);
 
-select person_id from facebook_event_checkin where person_id in (78881,90700,99716) and event_name  = "SQL Symphony Concert" and date like "201712%";
+select distinct person_id from facebook_event_checkin where person_id in (78881,90700,99716) and event_name  = "SQL Symphony Concert" and date like "201712%";
+
+select *from person where id  = 99716;
 
 
 describe solution;
