@@ -36,19 +36,30 @@ Select *from get_fit_now_member where id like "48Z%" and membership_status = "go
 -- Task: Examine the car details associated with the crime scene. Retrieve information about the vehicles present during the incident.
 select id from drivers_license where plate_number like "%H42W%";
 
+-- 6. Personal Details:
+-- Task: Identify and collect personal details mentioned in the previous query. This includes names, addresses, and any additional details.
+select *from person where license_id in (183779, 423327, 664760);
+
+-- 7. Membership Status at the Gym:
+-- Task: Determine who is identified in the previous query as a member of the gym. Utilize the gym database to confirm their membership status.
 select *from person where license_id in (183779, 423327, 664760) and id in (28819,67318);
 
+-- Here we can see that he is not the actual murderer, he was hired by some woman. He also provided some insights about the woman. We need to investigate this information about the woman to catch the actual killer.
 select transcript from interview where person_id  = 67318;
 
+-- 1st insight : She's around 5'5" (65") or 5'7" (67"). She has red hair and she drives a Tesla Model S.
 select *from drivers_license where gender  = "female" and height between 65 and 67 and hair_color = "red" and car_make = "Tesla" and car_model  = "Model S";
 
+-- To establish a link between 1st insight and 2nd insight, we have to find the person's unique identity number from there license id.
 select id from person where license_id in (202298,291182,918773);
 
+-- 2nd insight : She attended the SQL Symphony Concert 3 times in December 2017.
 select distinct person_id from facebook_event_checkin where person_id in (78881,90700,99716) and event_name  = "SQL Symphony Concert" and date like "201712%";
 
+-- We have found the murderer. Let's find his personal detail to know more about her.
 select *from person where id  = 99716;
 
-
+-- Insert the name of the murderer in the solution Table.
 describe solution;
 alter table solution modify user varchar (30);
 alter table solution modify value int;
