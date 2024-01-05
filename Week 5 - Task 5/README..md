@@ -21,6 +21,45 @@
 ## View Witness Interviews:
 - Access the recorded interviews of witnesses conducted after the murder. Gather insights into their statements and potential clues.
 
-![image](https://github.com/RohitBhavsar27/Winter-Internship/assets/130300699/9027f959-8b16-4286-ba98-8be31f26883e)  ![image](https://github.com/RohitBhavsar27/Winter-Internship/assets/130300699/f457c800-0fae-48c0-9c8e-de5f91aba8c8)
+Here is the transcript of the first witness named 'Morty Schapiro'
+![image](https://github.com/RohitBhavsar27/Winter-Internship/assets/130300699/cca28095-0e31-4be8-b70f-1b5dea4cdcf0)
+
+Here is the transcript of the second witness named 'Annabel Miller'
+![image](https://github.com/RohitBhavsar27/Winter-Internship/assets/130300699/1282eaf4-dbaa-4a3d-8397-0d85256edb5c)
+
+- From the insights that we have gained from both the transcript we can proceed further in the investigation. We are going to cross check the authenticity of the transcript by checking the gym database and the vehicle details.
+
+## Check Gym Database:
+- Investigate the gym database using details obtained from the crime scene report and witness interviews. Look for any gym-related information that might be relevant.
+
+Cross referencing the first witness's transcript
+![image](https://github.com/RohitBhavsar27/Winter-Internship/assets/130300699/812f874d-2815-4211-bcaa-a4aff793f49c)
+
+Cross referencing the second witness's transcript
+![image](https://github.com/RohitBhavsar27/Winter-Internship/assets/130300699/ce7c0a5b-a7ca-4612-943a-39f867bf601b)
+
+- If we analyze both the transcript we got to think that there were two membership id's (48Z7A, 48Z55) which are common in both the transcript. Thus we are going to mainly focus on that people.
+
+## Check Car Details:
+- Examine the car details associated with the crime scene. Retrieve information about the vehicles present during the incident.
+
+The 2nd witness's transcript has given some insights about vehicle plate details. Thus we are going to retrieve license id's which belong to the vehicle whose number plate include "H42W".
+
+![image](https://github.com/RohitBhavsar27/Winter-Internship/assets/130300699/a97e124f-b964-47d9-a67c-fe3037025445)
+
+## Personal Details:
+- Identify and collect personal details mentioned in the previous query. This includes names, addresses, and any additional details.
+
+![image](https://github.com/RohitBhavsar27/Winter-Internship/assets/130300699/ff034654-9f87-4e35-9a8f-50da756a4dd4)
+
+## Membership Status at the Gym:
+- Determine who is identified in the previous query as a member of the gym. Utilize the gym database to confirm their membership status.
+
+While checking the personal details we come to think that one person id belongs to one of the two person id which we retrieved while cross referencing the 2nd witness's transcript i.e gym membership database.
+
+![image](https://github.com/RohitBhavsar27/Winter-Internship/assets/130300699/6fb4436f-afed-4181-ad2d-46edd4d985be)
+
+
+
 
 
