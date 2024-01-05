@@ -2,7 +2,7 @@
 
 - There's been a Murder in SQL City! The SQL Murder Mystery is designed to be both a self-directed lesson to learn SQL concepts and commands and a fun game for experienced SQL users to solve an intriguing crime.
 
-- A crime has taken place and the detective needs your help. The detective gave you the crime scene report, but you somehow lost it. You vaguely remember that the crime was a ​murder​ that occurred sometime on **​Jan.15, 2018​** and that it took place in ​**SQL City​**. Start by retrieving the corresponding crime scene report from the police department’s database.
+- A crime has taken place and the detective needs your help. The detective gave you the crime scene report, but you somehow lost it. You vaguely remember that the crime was a ​murder​ that occurred sometime on **​Jan.15, 2018** and that it took place in ​**SQL City​**. Start by retrieving the corresponding crime scene report from the police department’s database.
 
 ## Retrieve Crime Scene Report:
 - Run a query to retrieve the crime scene report for the murder that occurred on Jan.15, 2018, in SQL City. Gather all available details from the report.
@@ -63,7 +63,26 @@ While checking the personal details we come to think that one person id belongs 
 
 ![image](https://github.com/RohitBhavsar27/Winter-Internship/assets/130300699/6fb4436f-afed-4181-ad2d-46edd4d985be)
 
+## Congratulations !! We might have found the murderer but first we should read what he said in the witness interview. I mean does he already accepted the murder charges or not. 
 
+![image](https://github.com/RohitBhavsar27/Winter-Internship/assets/130300699/b2079892-5497-4d9a-bec3-a2c66c6b95aa)
 
+Ohh no ! Here we can see that he is not the actual murderer, he was hired by some woman. He also provided some insights about the woman. We need to investigate this information about the woman to catch the actual killer.
 
+_1. She's around 5'5" (65") or 5'7" (67"). She has red hair and she drives a Tesla Model S._
 
+![image](https://github.com/RohitBhavsar27/Winter-Internship/assets/130300699/e27efe76-3e5f-48c7-a2be-eef832f6775e)
+
+To establish a link between 1st insight and 2nd insight, we have to find the person's unique identity number from there license id. 
+
+![image](https://github.com/RohitBhavsar27/Winter-Internship/assets/130300699/7289d5b0-da74-45b4-8e6e-e45a2c02410a)
+
+Once we get the person's unique identity number we can cross check them in the facebook event chekin database and we will get our killer !
+
+_2. She attended the SQL Symphony Concert 3 times in December 2017._
+
+![image](https://github.com/RohitBhavsar27/Winter-Internship/assets/130300699/e45745c4-08e4-4d98-82a8-e4f9446bf3f6)
+
+## Hurray !! We have found the murderer. Let's find his personal detail to know more about him.
+
+![image](https://github.com/RohitBhavsar27/Winter-Internship/assets/130300699/c11d2b99-bd86-4b90-b102-0b6ddd775a3c)
