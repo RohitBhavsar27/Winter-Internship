@@ -83,6 +83,6 @@ _2. She attended the SQL Symphony Concert 3 times in December 2017._
 
 ![image](https://github.com/RohitBhavsar27/Winter-Internship/assets/130300699/e45745c4-08e4-4d98-82a8-e4f9446bf3f6)
 
-## Hurray !! We have found the murderer. Let's find his personal detail to know more about him.
+## Hurray !! We have found the murderer. Let's find his personal detail to know more about her.
 
 ![image](https://github.com/RohitBhavsar27/Winter-Internship/assets/130300699/c11d2b99-bd86-4b90-b102-0b6ddd775a3c)
