@@ -16,7 +16,7 @@
 
 ![image](https://github.com/RohitBhavsar27/Winter-Internship/assets/130300699/8f736111-5356-4e45-a0f2-db46f8cc51e1)  ![image](https://github.com/RohitBhavsar27/Winter-Internship/assets/130300699/69948785-3f78-4c3b-bb49-3e844977c996)
 
-- After retrieving the personal details from the addresses that we have in the database, we have there id, name, license id and there Social Security Number which we can use in future to read the transcript of each witness.
+- After retrieving the personal details from the addresses that we have in the database, we have there person's unique identity number, name, license id and there Social Security Number which we can use in future to read the transcript of each witness.
 
 ## View Witness Interviews:
 - Access the recorded interviews of witnesses conducted after the murder. Gather insights into their statements and potential clues.
@@ -59,7 +59,7 @@ The 2nd witness's transcript has given some insights about vehicle plate details
 ## Membership Status at the Gym:
 - Determine who is identified in the previous query as a member of the gym. Utilize the gym database to confirm their membership status.
 
-While checking the personal details we come to think that one person id belongs to one of the two person id which we retrieved while cross referencing the 2nd witness's transcript i.e gym membership database.
+While checking the personal details we come to think that one person's unique identity number belongs to one of the two people unique identity number which we retrieved while cross referencing the 2nd witness's transcript i.e gym membership database.
 
 ![image](https://github.com/RohitBhavsar27/Winter-Internship/assets/130300699/6fb4436f-afed-4181-ad2d-46edd4d985be)
 
