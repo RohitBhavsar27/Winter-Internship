@@ -21,13 +21,13 @@
 ## View Witness Interviews:
 - Access the recorded interviews of witnesses conducted after the murder. Gather insights into their statements and potential clues.
 
-Here is the transcript of the first witness named 'Morty Schapiro'.
-
-![image](https://github.com/RohitBhavsar27/Winter-Internship/assets/130300699/cca28095-0e31-4be8-b70f-1b5dea4cdcf0)
-
-Here is the transcript of the second witness named 'Annabel Miller'.
+Here is the transcript of the first witness named 'Annabel Miller'.
 
 ![image](https://github.com/RohitBhavsar27/Winter-Internship/assets/130300699/1282eaf4-dbaa-4a3d-8397-0d85256edb5c)
+
+Here is the transcript of the second witness named 'Morty Schapiro'.
+
+![image](https://github.com/RohitBhavsar27/Winter-Internship/assets/130300699/cca28095-0e31-4be8-b70f-1b5dea4cdcf0)
 
 - From the insights that we have gained from both the transcript we can proceed further in the investigation. We are going to cross check the authenticity of the transcript by checking the gym database and the vehicle details.
 
