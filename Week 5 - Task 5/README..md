@@ -47,7 +47,7 @@ Cross referencing the second witness's transcript.
 ## Check Car Details:
 - Examine the car details associated with the crime scene. Retrieve information about the vehicles present during the incident.
 
-The 2nd witness's transcript has given some insights about vehicle plate details. Thus we are going to retrieve license id's which belong to the vehicle whose number plate include "H42W".
+The 1st witness's transcript has given some insights about vehicle plate details. Thus we are going to retrieve license id's which belong to the vehicle whose number plate include "H42W".
 
 ![image](https://github.com/RohitBhavsar27/Winter-Internship/assets/130300699/a97e124f-b964-47d9-a67c-fe3037025445)
 
