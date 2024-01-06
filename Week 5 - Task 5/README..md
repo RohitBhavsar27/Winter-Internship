@@ -1,4 +1,4 @@
-# Google Colab File URl : https://colab.research.google.com/drive/164qdcg3eTDXHIym7ZL3zf6N-_Jjy2-br
+Google Colab File URL : https://colab.research.google.com/drive/164qdcg3eTDXHIym7ZL3zf6N-_Jjy2-br
 
 # SQL Murder Mystery
 
