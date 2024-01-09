@@ -1,5 +1,4 @@
-Google Colab File URL : https://drive.google.com/file/d/16XmD-Wq326g7bNOKRtyQid-KaxWvGiL6/view?usp=sharing
-
+Google Colab File URL : https://colab.research.google.com/drive/16XmD-Wq326g7bNOKRtyQid-KaxWvGiL6#scrollTo=E38o3-hX1z-K
 # Web Scraping
 
 ## Description
