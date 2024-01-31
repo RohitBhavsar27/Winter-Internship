@@ -1,4 +1,4 @@
-# India Air Quality Data-Visualization Using Tableau
+# India Air Quality Data Visualization Using Tableau
 
 - In this project I am using Tableau Dekstop for visualization on India Air Quality Data.
 
