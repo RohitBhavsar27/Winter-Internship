@@ -4,7 +4,7 @@
 
 ## Tableau Dashboard URL :: 
 
-- https://public.tableau.com/app/profile/rohit.bhavsar3097/viz/Week7-Task7/Dashboard2?publish=yes
+- https://public.tableau.com/app/profile/rohit.bhavsar3097/viz/IndiaairQualityDashboard/Dashboard2
 
 ## Objective ::
 
