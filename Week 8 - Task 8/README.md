@@ -22,6 +22,9 @@
   - https://colab.research.google.com/drive/1HBTrUH538hVk3wZ9aUvMKzlNI9XIUkeG
   - https://colab.research.google.com/drive/1HSeJtvcXbibyhCWZe9_33-wNRBkf6qqh
   - https://colab.research.google.com/drive/1HrbU-VNP-OEgE2fGl3hevutnesL1lFYy
+
+### 4. Pandas Profiling :-
+  - https://colab.research.google.com/drive/1KKkEMi0yMmwZGmfxqsMrOASdn7IK1Nqi 
  
 ## Objective :-
 - Imagine you are a data analyst at “HealthTrackers Inc.,” a fictional company operating in the Fitbit industry. Your company is dedicated to understanding consumer behavior to enhance product offerings and optimize marketing strategies. You have been tasked with analyzing a comprehensive dataset obtained from Fitbit users to uncover trends and insights. The business objective is to identify key trends, understand their implications for customers, and leverage these insights to shape an effective marketing strategy.
